@@ -1,0 +1,17 @@
+Content-Length: 5525
+Content-Type: text/plain
+Server: Server
+Date: Thu, 02 Feb 2023 09:55:19 GMT
+X-Amz-Rid: 9ZFPKDFZBNG5QTHTWZVD
+X-Amz-Request-Id: YZ0FTX54860WP98A
+Last-Modified: Thu, 23 Jun 2022 17:50:43 GMT
+Etag: "d56aaaed5f8f78a87890dbbd59af2878"
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,User-Agent
+Cache-Control: no-transform
+X-Frame-Options: SAMEORIGIN
+X-Cache: Miss from cloudfront
+Via: 1.1 1f23ffcac5f2f3a2f895149f2110de5c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: PNQ50-P3
+X-Amz-Cf-Id: uyCrOwsy5c2rb5f6P29QCaVPwg5kD-N69VrDQNSDaGzM8thhPQky0A==
